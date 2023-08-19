@@ -1,7 +1,7 @@
 # QnA_extractor
 
-## 본 프로젝트는 고려대학교 데이터청년캠퍼스 대회 출품 프로젝트입니다.
-## Youtube video에서 초단위로 글자를 추출해서 질문 부분만 추출해서 Timeline을 만들어주는 프로젝트입니다.
+-- 본 프로젝트는 고려대학교 데이터청년캠퍼스 대회 출품 프로젝트입니다.
+-- Youtube video에서 초단위로 글자를 추출해서 질문 부분만 추출해서 Timeline을 만들어주는 프로젝트입니다.
 
 # Detecting-Pytorch
 ## CRAFT: Character-Region Awareness For Text detection
