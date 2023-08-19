@@ -23,6 +23,8 @@ LinkRefiner | CTW1500 | - | Used with the General Model | [Click](https://drive.
 ``` (with python 3.7)
 python test.py --trained_model=[weightfile] --test_folder=[folder path to test images]
 
+```
+
 
 # Recognition - fine-tuned trOCR
 
