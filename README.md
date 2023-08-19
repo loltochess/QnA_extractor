@@ -3,7 +3,7 @@
 -- 본 프로젝트는 고려대학교 데이터청년캠퍼스 대회 출품 프로젝트입니다.
 -- Youtube video에서 초단위로 글자를 추출해서 질문 부분만 추출해서 Timeline을 만들어주는 프로젝트입니다.
 
-# Detecting-Pytorch
+# (1)Detecting : CRAFT NAVER
 ## CRAFT: Character-Region Awareness For Text detection
 Official Pytorch implementation of CRAFT text detector | [Paper](https://arxiv.org/abs/1904.01941) | [Pretrained Model](https://drive.google.com/open?id=1Jk4eGD7crsqCCg9C9VjCLkMN3ze8kutZ) | [Supplementary](https://youtu.be/HI8MzpY8KMI)
 
@@ -12,7 +12,7 @@ Official Pytorch implementation of CRAFT text detector | [Paper](https://arxiv.o
 Clova AI Research, NAVER Corp.
 ### 사용법
 1. download pretrained model
-### Test instruction using pretrained model
+### pretrained model
  *Model name* | *Used datasets* | *Languages* | *Purpose* | *Model Link* |
  | :--- | :--- | :--- | :--- | :--- |
 General | SynthText, IC13, IC17 | Eng + MLT | For general purpose | [Click](https://drive.google.com/open?id=1Jk4eGD7crsqCCg9C9VjCLkMN3ze8kutZ)
@@ -26,7 +26,7 @@ python test.py --trained_model=[weightfile] --test_folder=[folder path to test i
 ```
 
 
-# Recognition - fine-tuned trOCR
+# (2)Recognition : trOCR-youtube-kor-OCR
 
   https://huggingface.co/gg4ever/trOCR-youtube-kor-OCR
 
